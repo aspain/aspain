@@ -1,5 +1,12 @@
 # Meet Adam
-Hello! 
+Hello! I'm Adam. I'm currently a Senior Data Engineer at Flywheel Digital, based out of Baltimore, MD. Most of my GitHub activity is in work-related repositories so there isn't much here at the moment.
+
+
+## What I Do
+As a Data Engineer, I mostly work with Python, SQL, Airflow, various cloud providers and other tools. I enjoy troubleshooting, testing new ideas, writing documentation, and helping others learn and grow.
+
+## Other Interests
+Outside of work, I enjoy hiking, backpacking, snowboarding, following Formula 1, playing guitar, and spending time with my family.
 
 
 <!--
